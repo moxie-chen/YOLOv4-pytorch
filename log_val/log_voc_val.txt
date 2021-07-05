@@ -1,0 +1,100 @@
+[2021-06-21 11:08:45,438]-[eval_voc.py line:49]:***********Start Evaluation**************** 
+[2021-06-21 11:18:54,886]-[eval_voc.py line:57]:aeroplane --> mAP : 0.6166402074652847 
+[2021-06-21 11:18:54,887]-[eval_voc.py line:57]:bicycle --> mAP : 0.7342115213251194 
+[2021-06-21 11:18:54,887]-[eval_voc.py line:57]:bird --> mAP : 0.5960426910822274 
+[2021-06-21 11:18:54,887]-[eval_voc.py line:57]:boat --> mAP : 0.4398684323831589 
+[2021-06-21 11:18:54,887]-[eval_voc.py line:57]:bottle --> mAP : 0.685673232300808 
+[2021-06-21 11:18:54,887]-[eval_voc.py line:57]:bus --> mAP : 0.48906485801468946 
+[2021-06-21 11:18:54,887]-[eval_voc.py line:57]:car --> mAP : 0.8352234762424637 
+[2021-06-21 11:18:54,887]-[eval_voc.py line:57]:cat --> mAP : 0.24899786162344445 
+[2021-06-21 11:18:54,888]-[eval_voc.py line:57]:chair --> mAP : 0.5657613319986737 
+[2021-06-21 11:18:54,888]-[eval_voc.py line:57]:cow --> mAP : 0.5567085819532169 
+[2021-06-21 11:18:54,888]-[eval_voc.py line:57]:diningtable --> mAP : 0.5761513011171042 
+[2021-06-21 11:18:54,888]-[eval_voc.py line:57]:dog --> mAP : 0.5530960971436572 
+[2021-06-21 11:18:54,889]-[eval_voc.py line:57]:horse --> mAP : 0.7044240530801359 
+[2021-06-21 11:18:54,889]-[eval_voc.py line:57]:motorbike --> mAP : 0.6184779659538401 
+[2021-06-21 11:18:54,889]-[eval_voc.py line:57]:person --> mAP : 0.8494309460339511 
+[2021-06-21 11:18:54,889]-[eval_voc.py line:57]:pottedplant --> mAP : 0.4338707443645796 
+[2021-06-21 11:18:54,889]-[eval_voc.py line:57]:sheep --> mAP : 0.553365739638105 
+[2021-06-21 11:18:54,889]-[eval_voc.py line:57]:sofa --> mAP : 0.5567949376073933 
+[2021-06-21 11:18:54,889]-[eval_voc.py line:57]:train --> mAP : 0.6743204632317441 
+[2021-06-21 11:18:54,890]-[eval_voc.py line:57]:tvmonitor --> mAP : 0.656111535756122 
+[2021-06-21 11:18:54,890]-[eval_voc.py line:60]:mAP:0.5972117989157859 
+[2021-06-21 11:18:54,890]-[eval_voc.py line:61]:inference time: 176.92 ms 
+[2021-06-21 11:18:54,890]-[eval_voc.py line:63]:  ===val cost time:609.4524s 
+[2021-06-21 11:26:51,952]-[eval_voc.py line:69]:***********Start Detection**************** 
+[2021-06-21 11:26:51,952]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\CBAM.png 
+[2021-06-21 11:26:53,242]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/CBAM.png 
+[2021-06-21 11:26:53,242]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\det-result.jpg 
+[2021-06-21 11:26:53,767]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/det-result.jpg 
+[2021-06-21 11:26:53,767]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\heatmap.jpg 
+[2021-06-21 11:26:54,556]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/heatmap.jpg 
+[2021-06-21 11:26:54,556]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\modelsize.jpg 
+[2021-06-21 11:26:54,803]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/modelsize.jpg 
+[2021-06-21 11:26:54,803]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\results.jpg 
+[2021-06-21 11:26:55,282]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/results.jpg 
+[2021-06-21 11:26:55,282]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\SEnet.jpg 
+[2021-06-21 11:26:55,556]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/SEnet.jpg 
+[2021-06-21 11:26:55,556]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\test_annotation.txt 
+[2021-06-21 14:28:52,292]-[eval_voc.py line:49]:***********Start Evaluation**************** 
+[2021-06-21 14:38:38,433]-[eval_voc.py line:57]:aeroplane --> mAP : 0.6166732368301586 
+[2021-06-21 14:38:38,433]-[eval_voc.py line:57]:bicycle --> mAP : 0.7341989684070869 
+[2021-06-21 14:38:38,434]-[eval_voc.py line:57]:bird --> mAP : 0.5960275117534298 
+[2021-06-21 14:38:38,434]-[eval_voc.py line:57]:boat --> mAP : 0.4398510869901281 
+[2021-06-21 14:38:38,434]-[eval_voc.py line:57]:bottle --> mAP : 0.685647830289004 
+[2021-06-21 14:38:38,434]-[eval_voc.py line:57]:bus --> mAP : 0.4890641108017784 
+[2021-06-21 14:38:38,434]-[eval_voc.py line:57]:car --> mAP : 0.8352244908393589 
+[2021-06-21 14:38:38,435]-[eval_voc.py line:57]:cat --> mAP : 0.24899125596921695 
+[2021-06-21 14:38:38,435]-[eval_voc.py line:57]:chair --> mAP : 0.5657503690236803 
+[2021-06-21 14:38:38,435]-[eval_voc.py line:57]:cow --> mAP : 0.5567607148934062 
+[2021-06-21 14:38:38,435]-[eval_voc.py line:57]:diningtable --> mAP : 0.5761491403175264 
+[2021-06-21 14:38:38,436]-[eval_voc.py line:57]:dog --> mAP : 0.5530893707723386 
+[2021-06-21 14:38:38,436]-[eval_voc.py line:57]:horse --> mAP : 0.7044219817883471 
+[2021-06-21 14:38:38,436]-[eval_voc.py line:57]:motorbike --> mAP : 0.6184754153588443 
+[2021-06-21 14:38:38,436]-[eval_voc.py line:57]:person --> mAP : 0.8494335884775701 
+[2021-06-21 14:38:38,436]-[eval_voc.py line:57]:pottedplant --> mAP : 0.43384666270348793 
+[2021-06-21 14:38:38,436]-[eval_voc.py line:57]:sheep --> mAP : 0.5533438852797598 
+[2021-06-21 14:38:38,436]-[eval_voc.py line:57]:sofa --> mAP : 0.5567887941042889 
+[2021-06-21 14:38:38,436]-[eval_voc.py line:57]:train --> mAP : 0.6743330518047327 
+[2021-06-21 14:38:38,437]-[eval_voc.py line:57]:tvmonitor --> mAP : 0.6560899943799448 
+[2021-06-21 14:38:38,437]-[eval_voc.py line:60]:mAP:0.5972080730392044 
+[2021-06-21 14:38:38,437]-[eval_voc.py line:61]:inference time: 168.77 ms 
+[2021-06-21 14:38:38,437]-[eval_voc.py line:63]:  ===val cost time:586.1452s 
+[2021-06-21 14:45:11,152]-[eval_voc.py line:69]:***********Start Detection**************** 
+[2021-06-21 14:45:11,152]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\CBAM.png 
+[2021-06-21 14:45:12,419]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/CBAM.png 
+[2021-06-21 14:45:12,420]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\det-result.jpg 
+[2021-06-21 14:45:12,946]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/det-result.jpg 
+[2021-06-21 14:45:12,946]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\heatmap.jpg 
+[2021-06-21 14:45:13,752]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/heatmap.jpg 
+[2021-06-21 14:45:13,752]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\modelsize.jpg 
+[2021-06-21 14:45:14,008]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/modelsize.jpg 
+[2021-06-21 14:45:14,008]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\results.jpg 
+[2021-06-21 14:45:14,508]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/results.jpg 
+[2021-06-21 14:45:14,509]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\SEnet.jpg 
+[2021-06-21 14:45:14,788]-[eval_voc.py line:95]:saved images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master\detection_result/SEnet.jpg 
+[2021-06-21 14:45:14,788]-[eval_voc.py line:72]:val images : D:/Python_Project/OpenSource/YOLOv4-pytorch-master/data\test_annotation.txt 
+[2021-06-22 10:10:57,291]-[eval_voc.py line:50]:***********Start Evaluation**************** 
+[2021-06-22 10:18:43,240]-[eval_voc.py line:58]:aeroplane --> mAP : 0.6365137396311482 
+[2021-06-22 10:18:43,240]-[eval_voc.py line:58]:bicycle --> mAP : 0.8006325473294478 
+[2021-06-22 10:18:43,241]-[eval_voc.py line:58]:bird --> mAP : 0.5937355846638631 
+[2021-06-22 10:18:43,241]-[eval_voc.py line:58]:boat --> mAP : 0.4798048364802134 
+[2021-06-22 10:18:43,241]-[eval_voc.py line:58]:bottle --> mAP : 0.6945250913869746 
+[2021-06-22 10:18:43,242]-[eval_voc.py line:58]:bus --> mAP : 0.6996784852762302 
+[2021-06-22 10:18:43,242]-[eval_voc.py line:58]:car --> mAP : 0.8872491578182738 
+[2021-06-22 10:18:43,242]-[eval_voc.py line:58]:cat --> mAP : 0.3297913831348199 
+[2021-06-22 10:18:43,242]-[eval_voc.py line:58]:chair --> mAP : 0.5574766392777872 
+[2021-06-22 10:18:43,242]-[eval_voc.py line:58]:cow --> mAP : 0.6173430160626014 
+[2021-06-22 10:18:43,243]-[eval_voc.py line:58]:diningtable --> mAP : 0.6076027731199819 
+[2021-06-22 10:18:43,243]-[eval_voc.py line:58]:dog --> mAP : 0.6156843922564728 
+[2021-06-22 10:18:43,243]-[eval_voc.py line:58]:horse --> mAP : 0.7538798687634611 
+[2021-06-22 10:18:43,243]-[eval_voc.py line:58]:motorbike --> mAP : 0.7912926941715925 
+[2021-06-22 10:18:43,243]-[eval_voc.py line:58]:person --> mAP : 0.8581795548829956 
+[2021-06-22 10:18:43,244]-[eval_voc.py line:58]:pottedplant --> mAP : 0.4607069085467873 
+[2021-06-22 10:18:43,244]-[eval_voc.py line:58]:sheep --> mAP : 0.5569476811986003 
+[2021-06-22 10:18:43,244]-[eval_voc.py line:58]:sofa --> mAP : 0.5242307410603473 
+[2021-06-22 10:18:43,244]-[eval_voc.py line:58]:train --> mAP : 0.6833827049225274 
+[2021-06-22 10:18:43,244]-[eval_voc.py line:58]:tvmonitor --> mAP : 0.6585473866053398 
+[2021-06-22 10:18:43,244]-[eval_voc.py line:61]:mAP:0.6403602593294734 
+[2021-06-22 10:18:43,244]-[eval_voc.py line:62]:inference time: 187.56 ms 
+[2021-06-22 10:18:43,245]-[eval_voc.py line:64]:  ===val cost time:465.9526s 
